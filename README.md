@@ -27,7 +27,6 @@
 > yarn install 
 > npm install
 > npm update
-> npm install 
 > npm start
 ```
 ### `—◉ ☑️ ACTIVAR EN CASO DE APAGARSE EN TERMUX ☑️`
