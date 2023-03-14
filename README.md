@@ -1,4 +1,4 @@
-# ***🔥 DORRAT-BOT-MD 🔥***
+emer# ***🔥 DORRAT-BOT-MD 🔥***
 
 <p align="center">
 <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
@@ -67,8 +67,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/DIEGO-OFC/DORRAT-TERMUX
-> cd DORRAT-TERMUX
+> git clone https://github.com/emer2006/RojasBot
+> cd RojasBot
 > yarn install 
 > npm install
 > npm update
