@@ -1,9 +1,5 @@
 emer# ***🔥 Charlie 🔥***
 
-<p align="center">
-<img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
-</p>
-
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
 <a href="http://wa.me/51995156047" target="blank"><img src="https://img.shields.io/badge/CharlieBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
@@ -11,15 +7,6 @@ emer# ***🔥 Charlie 🔥***
 ### `—◉ 🔥GRUPOS OFICIALES`
 
 )](https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb)  <a href="https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a> 
-
-> [⚠️] USAR LOS BOTS SIN SPAM
-
-### `—◉ 📦 𝐇𝐎𝐓𝐒 𝐏𝐀𝐑𝐀 𝐓𝐄𝐍𝐄𝐑 𝐄𝐋 𝐁𝐎𝐓 𝟐𝟒/𝟕`
-
-<a href="https://dash.boxmineworld.com/login" target="_blank"> <img src="https://img.shields.io/badge/-Boxmineworld-%23E4405F?style=for-the-badge&logo=Boxmineworld&logoColor=black" target="_blank"></a> <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/Boxmine.png" height="30px">
-<p align="hihg">   
-<a href="https://www.mediafire.com/file/nbe32g0kjl99yul/Termux_0.119.1.apk/file
-" target="_blank"> <img src="https://img.shields.io/badge/-DESCARGAR_TERMUX-%23E4405F?style=for-the-badge&logo=DESCARGAR_TERMUX&logoColor=black" target="_blank"></a> <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px">
 
 ### `—◉ ⚜️ LETRA DEL BOT ⚜️`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
@@ -57,7 +44,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd CharlieBot
 > rm -rf DORRATSESSION 
 > npm start
 ```
