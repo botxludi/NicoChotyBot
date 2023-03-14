@@ -1,4 +1,4 @@
-emer# ***🔥 Charlie 🔥***
+ ***🔥 Charlie 🔥***
 
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
