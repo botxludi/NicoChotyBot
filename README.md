@@ -1,34 +1,16 @@
-emer# ***🔥 DORRAT-BOT-MD 🔥***
+emer# ***🔥 Charlie 🔥***
 
 <p align="center">
 <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/dorrat-imagen.jpg" alt="DORRAT-BOT-MD" width="900"/>
 </p>
 
-### `—◉ ❤️BOTS OFICIALES`
-
-<a href="http://wa.me/50371527687" target="blank"><img src="https://img.shields.io/badge/BOT-OFICIAL.1️⃣-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-
 `—◉ DUDAS SOBRE EL BOT?, CONTACTANOS ✨`
 
-<a href="http://wa.me/593959425714" target="blank"><img src="https://img.shields.io/badge/DIEGO_OFC_CREADOR-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/573184314110" target="blank"><img src="https://img.shields.io/badge/Narsol_COLAB.1-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/595986674310" target="blank"><img src="https://img.shields.io/badge/viruzz_COLAB.2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/51993138466" target="blank"><img src="https://img.shields.io/badge/DANI_COLAB.3-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="http://wa.me/50246028932" target="blank"><img src="https://img.shields.io/badge/SinNombre_COLAB.4-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+<a href="http://wa.me/51995156047" target="blank"><img src="https://img.shields.io/badge/CharlieBot-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
 ### `—◉ 🔥GRUPOS OFICIALES`
 
-[![blog](https://img.shields.io/badge/Grupo-Oficial-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h)  <a href="https://chat.whatsapp.com/LlAbJM659dOBVJnxOIMl9h"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-[![blog](https://img.shields.io/badge/Grupo-Oficial2-25D366?style=for-the-badge&logo=whatsapp&logoColor=white 
-)](https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb)  <a href="https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a>
-
----------
-> GRUPOS OFICIALES DEL BOT PARA LA DIVERSIÓN :)
-
-## `[🗂️] Página del bot`
-
-<a href="https://sites.google.com/view/dorratbotmd/inicio" target="_blank"> <img src="https://img.shields.io/badge/-pagina aqui-%23E4405F?style=for-the-badge&logo=página aqui&logoColor=black" target="_blank"></a> 
+)](https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb)  <a href="https://chat.whatsapp.com/FxlQJ4A3tOjGx2Qu3BITfb"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/19/WhatsApp_logo-color-vertical.svg/1200px-WhatsApp_logo-color-vertical.svg.png" height="29px"></a> 
 
 > [⚠️] USAR LOS BOTS SIN SPAM
 
@@ -42,20 +24,6 @@ emer# ***🔥 DORRAT-BOT-MD 🔥***
 ### `—◉ ⚜️ LETRA DEL BOT ⚜️`
 - PAGINA USADA PARA LA LETRA [Aqui](https://smiley.cool/es/weirdmaker.php)
   
-### `—◉ 🛡️ ACTIVAR EN REPLIT 🛡️`
-
-[![Run on Repl.it](https://repl.it/badge/github/DIEGO-OFC/DORRAT-BOT-MD)](https://repl.it/github/DIEGO-OFC/DORRAT-BOT-MD)
-> [❗ obligatorio ❗] si vas a instalar en replit edita la carpeta index-inicio.js y ponle index.js
-> Es obligatorio o no funcionará en replit
-
-### `—◉ 🔮 ACTIVAR EN HEROKU 🔮`
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/DIEGO-OFC/DORRAT-BOT-MD)
-
-### `—◉ ⚒️ 𝐀𝐉𝐔𝐒𝐓𝐄𝐒 ⚒️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/configuracion.js)
-
-### <img src="https://github.com/DIEGO-OFC/DORRAT-BOT-MD/blob/main/galeria/unnamed.png" height="30px"> 𝐀𝐂𝐓𝐈𝐕𝐀𝐑 𝐄𝐍 𝐓𝐄𝐑𝐌𝐔𝐗
 - ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 ```bash
 > cd
@@ -79,7 +47,7 @@ emer# ***🔥 DORRAT-BOT-MD 🔥***
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
-> cd DORRAT-TERMUX
+> cd CharlieBot
 > npm start
 ```
 
@@ -101,15 +69,3 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > 𝙰𝚃𝙴𝙽𝚃𝙾 𝙰 𝙻𝙰𝚂 𝙰𝙲𝚃𝚄𝙰𝙻𝙸𝚉𝙰𝙲𝙸𝙾𝙽𝙴𝚂 𝚀𝚄𝙴 𝚂𝙴 𝙷𝙰𝙶𝙰𝙽 𝙴𝙽 𝙴𝚂𝚃𝙴 𝚁𝙴𝙿𝙾𝚂𝙸𝚃𝙾𝚁𝙸𝙾
 > 𝙴𝙻 𝙰𝙳𝙳 𝚈 𝙴𝙻 𝙺𝙸𝙲𝙺 𝙿𝚄𝙴𝙳𝙴𝙽 𝙾𝙲𝙰𝚂𝙸𝙾𝙽𝙰𝚁 𝚀𝚄𝙴 𝙴𝙻 𝙽𝚄𝙼𝙴𝚁𝙾 𝚂𝙴 𝚅𝙰𝚈𝙰 𝙰 𝚂𝙾𝙿𝙾𝚁𝚃𝙴 𝙿𝙾𝚁 𝙴𝙻𝙻𝙾 𝚂𝙴 𝙰𝙲𝚃𝙸𝚅𝙰 𝙲𝙾𝙽 #𝚎𝚗𝚊𝚋𝚕𝚎 𝚛𝚎𝚜𝚝𝚛𝚒𝚌𝚝 
 > 𝙳𝙾𝚁𝚁𝙰𝚃-𝙱𝙾𝚃 - 𝚃𝙴𝙰𝙼 𝙽𝙾 𝚂𝙴 𝙷𝙰𝙲𝙴 𝚁𝙴𝚂𝙿𝙾𝙽𝚂𝙰𝙱𝙻𝙴 𝙳𝙴𝙻 𝚄𝚂𝙾, 𝙽𝚄𝙼𝙴𝚁𝙾𝚂, 𝙿𝚁𝙸𝚅𝙰𝙲𝙸𝙳𝙰𝙳 𝚈 𝙲𝙾𝙽𝚃𝙴𝙽𝙸𝙳𝙾 𝙼𝙰𝙽𝙳𝙰𝙳𝙾, 𝚄𝚂𝙰𝙳𝙾 𝙾 𝙶𝙴𝚂𝚃𝙸𝙾𝙽𝙰𝙳𝙾 𝙿𝙾𝚁 𝚄𝚂𝚃𝙴𝙳𝙴𝚂 𝙾 𝙴𝙻 𝙱𝙾𝚃
-
-## `COLABORADORES DEL BOT` 
-<a href="https://github.com/SinNombre999"><img src="https://github.com/SinNombre999.png" width="100" height="100" alt="SinNombre999"/></a>
-<a href="https://github.com/GataNina-Li"><img src="https://github.com/GataNina-Li.png" width="100" height="100" alt="SinNombre999"/></a>
-<a href="https://github.com/VIRUZOFC"><img src="https://github.com/VIRUZOFC.png" width="100" height="100" alt="VIRUZOFC"/></a>
-
-
-
-## `𝐄𝐃𝐈𝐓𝐎𝐑 𝐘 𝐏𝐎𝐑𝐏𝐈𝐄𝐓𝐀𝐑𝐈𝐎 𝐃𝐄𝐋 𝐁𝐎𝐓` 
-<a href="https://github.com/DIEGO-OFC"><img src="https://github.com/DIEGO-OFC.png" width="300" height="300" alt="DIEGO-OFC"/></a>
-
-> The Dorrat-bot - MD_ By DIEGO OFC 
