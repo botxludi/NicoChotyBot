@@ -5,7 +5,7 @@ throw false
 }
 let pesan = args.join` `
 let oi = `*𝙼𝙴𝙽𝚂𝙰𝙹𝙴:* ${pesan}`
-let teks = `*⺀DESPIERTEN BOTS NATYCHARBOT LOS INVOCA⺀*\n\n❏ ${oi}\n\n ETIQUETA GENERAL*\n`
+let teks = `*⺀DESPIERTEN BOTS NATYCHARBOT LOS INVOCA⺀*\n\n❏ ${oi}\n\n Bot creado por Charlie no permito reventa parq adquirir el bot +994156047*\n`
 for (let mem of participants) {
 teks += `•🐼  @${mem.id.split('@')[0]}\n`}
 teks += `*└Nati La Niña De Mis Ojos <3`
