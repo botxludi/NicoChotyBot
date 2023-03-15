@@ -8,7 +8,7 @@ import { en, es, pt } from './lib/idiomas/total-idiomas.js'
 //cambia los números que sean propietarios 
 global.owner = [
   ['51994156047', '🔰 Charlie - 𝐂𝐑𝐄𝐀𝐃𝐎𝐑 🔰', true],
-  ['51994156047', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
+  ['51963194056', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 1 🔰', true],
   ['51994156047', '🔰 𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 3 🔰', true],
   ['51994156047', '🔰  𝐃𝐎𝐑𝐑𝐀𝐓∆𝐁𝐎𝐓 - 𝙲𝙾𝙻𝙻𝙰𝙱𝙾𝚁𝙰𝚃𝙾𝚁 4 🔰', true],
   ['51936767238'],
@@ -80,7 +80,7 @@ global.APIKeys = { // APIKey Here
 global.lenguajeGB = es
 
 /* ______________________________________________ */
-global.creadorname = 'Charie'
+global.creadorname = 'Charlie'
 global.creatorname = creadorname
 global.library = 'BAILEYS-MD'
 global.vs = 'V10'
@@ -98,10 +98,10 @@ global.tiempo = d.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', 
 global.packname = `👑 ➢ CREADOR POR:\n📅 ➢ Día:\n🗓️ ➢ Fecha:`
 global.author = ` CharlieBot\n• ${dia}\n• ${fecha}`
 //_______________
-global.wm = 'CharlieBot'
-global.db3t = `©⏤͟͟͞CharlieBot`
+global.wm = 'NicoChotyBot'
+global.db3t = `©⏤͟͟͞NicoChotyBot`
 global.wm3 = db3t
-global.igfg = 'CharlieBot'
+global.igfg = 'NicoChotyBot'
 global.wait = '*[❕] CARGANDO POR FAVOR ESPERA...*'
 //-------------------
 global.md = 'https://chat.whatsapp.com/JOkFXt2T0kNFN0vkiModTx'
