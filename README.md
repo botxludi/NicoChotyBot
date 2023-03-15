@@ -22,7 +22,7 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/emer2006/probot
+> git clone https://github.com/Emergit2006/probot
 > cd probot
 > yarn install 
 > npm install
