@@ -22,8 +22,8 @@
 > pkg install ffmpeg -y
 > pkg install imagemagick -y
 > pkg install yarn
-> git clone https://github.com/Emergit2006/probot
-> cd probot
+> git clone https://github.com/Emergit2006/RojasBot
+> cd RojasBot
 > yarn install 
 > npm install
 > npm update
